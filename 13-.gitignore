@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+applications.csv
+my-profile.json
+node_modules/
+.DS_Store
